@@ -1,4 +1,3 @@
-// src/hooks/usePages.ts
 import { useState } from "react";
 import type { Page } from "../types";
 import {
